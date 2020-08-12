@@ -6,4 +6,4 @@ Git tracks changes.    22222222222
 Git tracks changes of files.
 add remote master
 Creating a new branch is quick.
-Creating a new branch is quick & simple.  master
+Creating a new branch is quick AND simple
