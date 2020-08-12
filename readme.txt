@@ -7,3 +7,4 @@ Git tracks changes of files.
 add remote master
 Creating a new branch is quick.
 Creating a new branch is quick AND simple
+change readme.txt    dev
